@@ -1,0 +1,17 @@
+Ruang sampel siswa perempuan={Alya, Diandra, hani, Salma}
+                                                        
+Ruang sampel siswa laki-laki={Farel, Bimo, Juna, Riko}
+
+Kemungkinan pasangan dua perempuan dan dua laki-laki yang terjadi yaitu:
+
+Ruang sampel dari kejadian pasangan dua siswa perempuan={(Alya, Diandra); (Alya, hani); (Alya, Salma); (Diandra, hani); (Diandra, Salma); (hani, Salma)}
+
+Ruang sampel dari kejadian pasangan dua siswa laki-laki={(Farel, Bimo); (Farel Juna); (Farel, Riko); (Bimo, Juna); (Bimo, Riko); (Juna, Riko)}
+
+Banyaknya kejadian pasangan dua siswa perempuan adalah 6
+
+Banyaknya kejadian pasangan dua siswa laki-laki adalah 6
+
+sehingga, banyaknya kemungkinan yang akan terjadi jika setiap pasangan dua perempuan digabungkan dengan setiap pasangan dua laki-laki yaitu
+
+begin mathsize 14px style 6 cross times 6 equals 36 end style 
