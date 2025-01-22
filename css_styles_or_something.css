@@ -269,7 +269,7 @@
 	.centerx {
 	margin:auto;
   	text-align:center;
-  	width:50%
+  	width:95%
 }
 
 	.links {
@@ -361,7 +361,7 @@
 }
 
 .Gamesbutton {
-	-moz-box-shadow: 3px 4px 0px 0px #1564ad;
+    -moz-box-shadow: 3px 4px 0px 0px #1564ad;
 	-webkit-box-shadow: 3px 4px 0px 0px #1564ad;
 	box-shadow: 3px 4px 0px 0px #1564ad;
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5));
